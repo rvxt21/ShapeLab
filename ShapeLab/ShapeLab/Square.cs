@@ -16,17 +16,17 @@ namespace ShapeLab
             get { return side;}
             set { side = value; }
         }
-        public void Area()
+        public virtual void Area()
         {
-            Console.WriteLine($"\tПлощадь квадрата={side * side}");
+            Console.WriteLine($"\tSquare area={side * side}");
         }
-        public void Periemeter()
+        public virtual void Periemeter()
         {
-            Console.WriteLine($"\tПериметр квадрата= {side * 4}");
+            Console.WriteLine($"\tPeriemeter of a square= {side * 4}");
         }
         public void GetInfo()
         {
-            Console.WriteLine($"\tБыл создан квадрат\n Длина стороны:{ side} Цвет линий:{ line_color} Ширина линий:{line_thickness}");
+            Console.WriteLine($"\tA square was created\nSide length:{ side}\nColor lines:{ line_color}\nLine width:{line_thickness}");
         }
     }
 }

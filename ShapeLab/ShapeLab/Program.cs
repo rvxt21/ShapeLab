@@ -8,6 +8,11 @@ namespace ShapeLab
         protected string line_color;
         protected int line_thickness;
 
+        public Shape()
+        {
+            line_color = "red";
+            line_thickness = 12;
+        }
         public Shape(string line_color, int line_thickness)
         {
             this.line_color = line_color;
@@ -25,8 +30,10 @@ namespace ShapeLab
         }
         public void GetInfo()
         {
-            Console.WriteLine($"Цвет линий:{ line_color}  Ширина линий:{line_thickness}");
+            Console.WriteLine($"Line color:{ line_color}\nLine width:{line_thickness}");
         }
+        public void Area() { }
+        public void Periemeter() { }
         class Program
         {
             static void Main(string[] args)

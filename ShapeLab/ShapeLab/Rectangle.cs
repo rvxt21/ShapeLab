@@ -22,17 +22,17 @@ namespace ShapeLab
             get { return lenght; }
             set { lenght = value; }
         }
-        public void Area()
+        public virtual void Area()
         {
-            Console.WriteLine($"\tПлощадь прямоугольника={side * lenght}");
+            Console.WriteLine($"\tRectangle area={side * lenght}");
         }
-        public void Periemeter()
+        public virtual void Periemeter()
         {
-            Console.WriteLine($"\tПериметр прямоугольника= {(side + lenght) * 2}");
+            Console.WriteLine($"\tPerimeter of a rectangle= {(side + lenght) * 2}");
         }
         public void GetInfo()
         {
-            Console.WriteLine($"\tБыл создан прямоугольник\n Длина:{side} Высота прямоугольника:{lenght} Цвет линий:{ line_color} Ширина линий:{line_thickness}");
+            Console.WriteLine($"\tA rectangle was created\nLenght:{side}\nHeight of the rectangle:{lenght}\nLine color:{ line_color}\nLine width:{line_thickness}");
         }
     }
 }
