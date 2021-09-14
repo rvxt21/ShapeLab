@@ -40,9 +40,8 @@ namespace ShapeLab
             {
                 Shape square2 = new Shape("blue", 7436);
                 square2.GetInfo();
-                
-                Rectangle shape1 = new Rectangle(12,12,"red",12);
-               
+
+                Rectangle shape1 = new Rectangle(12, 12, "red", 12);
                 shape1.GetInfo();
                 shape1.Periemeter();
                 shape1.Area();
@@ -51,6 +50,7 @@ namespace ShapeLab
                 shape3.Periemeter();
                 shape3.Area();
                 Console.ReadLine();
+
 
             }
         }
