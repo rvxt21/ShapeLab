@@ -1,0 +1,14 @@
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\obj\Debug\netcoreapp3.1\ShapeLab.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\obj\Debug\netcoreapp3.1\ShapeLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\obj\Debug\netcoreapp3.1\ShapeLab.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\obj\Debug\netcoreapp3.1\ShapeLab.AssemblyInfo.cs
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\obj\Debug\netcoreapp3.1\ShapeLab.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\bin\Debug\netcoreapp3.1\ShapeLab.exe
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\bin\Debug\netcoreapp3.1\ShapeLab.deps.json
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\bin\Debug\netcoreapp3.1\ShapeLab.runtimeconfig.json
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\bin\Debug\netcoreapp3.1\ShapeLab.runtimeconfig.dev.json
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\bin\Debug\netcoreapp3.1\ShapeLab.dll
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\bin\Debug\netcoreapp3.1\ShapeLab.pdb
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\obj\Debug\netcoreapp3.1\ShapeLab.dll
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\obj\Debug\netcoreapp3.1\ShapeLab.pdb
+C:\Users\anast\source\repos\ShapeLab\ShapeLab\obj\Debug\netcoreapp3.1\ShapeLab.genruntimeconfig.cache
